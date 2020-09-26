@@ -1,0 +1,2 @@
+include ':Lab1-UI'
+rootProject.name = "Labs20201-Gr01"
