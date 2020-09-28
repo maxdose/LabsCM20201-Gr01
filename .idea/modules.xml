@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lab1-UI.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lab1-UI.iml" group="Labs20201-Gr01/Lab1-UI" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Labs20201-Gr01.iml" filepath="$PROJECT_DIR$/.idea/modules/Labs20201-Gr01.iml" group="Labs20201-Gr01" />
+    </modules>
+  </component>
+</project>
