@@ -1,5 +1,6 @@
 package co.edu.udea.compumovil.gr01_20201.lab1
 
+
 import android.app.DatePickerDialog
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -84,4 +85,3 @@ class PersonalData : AppCompatActivity(), DatePickerDialog.OnDateSetListener, Ad
 
 
 }
-

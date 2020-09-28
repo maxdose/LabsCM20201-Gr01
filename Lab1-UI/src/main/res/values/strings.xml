@@ -17,4 +17,6 @@
     <string name="Nombre">Nombres</string>
     <string name="Siguiente">Siguiente</string>
     <string name="ErrorNombres">Faltan datos</string>
-</resources>
+    <string name="box_tittle">Contact Information</string>
+    <string name="button_one">Button One</string>
+    <string name="button_two">Button Two</string>
