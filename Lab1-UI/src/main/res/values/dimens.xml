@@ -3,4 +3,3 @@
     <dimen name="margin_wide">16dp</dimen>
     <dimen name="box_text_size">24sp</dimen>
     <dimen name="button_text_size">24sp</dimen>
-</resources>

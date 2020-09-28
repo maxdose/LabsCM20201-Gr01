@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Labs20201-Gr01</string>
+    <string name="info_personal">Personal information</string>
+    <string name="nombre">Name</string>
+    <string name="apellido">Lastname</string>
+    <string name="hombre">Man</string>
+    <string name="mujer">Woman</string>
+    <string name="sexo">Sex</string>
+    <string name="datePicker">Change</string>
+    <string name="Primaria">Primary School</string>
+    <string name="Secundaria">secondary school</string>
+    <string name="Universidad">University</string>
+    <string name="Otra">Other</string>
+    <string name="grado_escolaridad">School grade</string>
+    <string name="grado_de_escolaridad">School grade</string>
+    <string name="apellidos">Lastname</string>
+    <string name="Nombre">Name</string>
+    <string name="Siguiente">next</string>
+    <string name="ErrorNombres">something is missing</string>
+</resources>
