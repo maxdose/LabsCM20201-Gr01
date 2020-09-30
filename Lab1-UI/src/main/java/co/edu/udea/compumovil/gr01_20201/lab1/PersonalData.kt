@@ -2,6 +2,7 @@ package co.edu.udea.compumovil.gr01_20201.lab1
 
 
 import android.app.DatePickerDialog
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
@@ -9,7 +10,6 @@ import android.widget.*
 import kotlinx.android.synthetic.main.activity_personal_data.*
 import java.sql.Date
 import java.util.*
-
 
 class PersonalData : AppCompatActivity(), DatePickerDialog.OnDateSetListener, AdapterView.OnItemSelectedListener {
 
@@ -37,6 +37,12 @@ class PersonalData : AppCompatActivity(), DatePickerDialog.OnDateSetListener, Ad
            if (textoNombre.text.equals("")||textoApellido.text.equals("") || fechaEditText.text.equals("") ) {
                Toast.makeText(applicationContext, getString(R.string.ErrorNombres), Toast.LENGTH_LONG).show()
            }
+            else {
+
+               val intent = Intent(this, ContactData::class.java)
+
+               startActivity(intent)
+           }
         }
 
        pickDate()
@@ -50,6 +56,7 @@ class PersonalData : AppCompatActivity(), DatePickerDialog.OnDateSetListener, Ad
         respuesta = findViewById(R.id.opciones)
 
         opciones?.onItemSelectedListener = this
+
     }
 
     private fun getDayTimeCalendar(){
@@ -83,5 +90,4 @@ class PersonalData : AppCompatActivity(), DatePickerDialog.OnDateSetListener, Ad
         Toast.makeText(applicationContext, getString(R.string.grado_escolaridad), Toast.LENGTH_LONG).show()
     }
 
-
-}
+    }

@@ -6,7 +6,7 @@
     <string name="apellido">Lastname</string>
     <string name="hombre">Man</string>
     <string name="mujer">Woman</string>
-    <string name="sexo">Sex</string>
+    <string name="sexo">Sex:</string>
     <string name="datePicker">Change</string>
     <string name="Primaria">Primary School</string>
     <string name="Secundaria">secondary school</string>
