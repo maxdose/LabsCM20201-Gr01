@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="co.edu.udea.compumovil.gr01_20201.lab2" >
+
+    <application>
+        <activity android:name=".Activity.LogIn" >
+        </activity>
+        <activity android:name=".Activity.MainActivity" />
+    </application>
+
+</manifest>
