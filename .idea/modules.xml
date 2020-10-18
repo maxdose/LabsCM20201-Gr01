@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lab1-UI.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lab1-UI.iml" group="Labs20201-Gr01/Lab1-UI" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lab2Activities/Lab2Activities.iml" filepath="$PROJECT_DIR$/.idea/modules/Lab2Activities/Lab2Activities.iml" group="Labs20201-Gr01/Lab2Activities" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Labs20201-Gr01.iml" filepath="$PROJECT_DIR$/.idea/modules/Labs20201-Gr01.iml" group="Labs20201-Gr01" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/.idea/modules/myapplication/myapplication.iml" group="Labs20201-Gr01/myapplication" />
     </modules>
   </component>
 </project>

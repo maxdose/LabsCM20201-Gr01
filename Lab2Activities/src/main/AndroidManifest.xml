@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="co.edu.udea.compumovil.gr01_20201.lab2" >
+    package="co.edu.udea.compumovil.gr01_20201.lab2">
 
     <application>
-        <activity android:name=".Activity.LogIn" >
-        </activity>
+        <activity android:name=".Activity.RegisterSecondPart"></activity>
+        <activity android:name=".Activity.LogIn" />
         <activity android:name=".Activity.MainActivity" />
+        <activity android:name=".Activity.Register">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
     </application>
+
+
 
 </manifest>

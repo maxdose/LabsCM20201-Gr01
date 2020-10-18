@@ -1,1 +1,17 @@
-<resources></resources>
+<resources>
+    <string name="datePicker">Cargar</string>
+    <string name="FechaNacimiento">Fecha de Nacimiento</string>
+    <string name="Pais">País</string>
+    <string name="sexo">Sexo</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="Otro">Otro</string>
+    <string name="registro">Registrarse</string>
+    <string name="yaREgistro">¿Ya te encuentras registrado?</string>
+    <string name="ErrorDatos">Se deben llenar todos los campos</string>
+    <string name="pais">país</string>
+    <string name="Colombia">Colombia</string>
+    <string name="EstadosUnidos">Estados Unidos</string>
+    <string name="Mexico">México</string>
+    <string name="Brasil">Brasil</string>
+</resources>

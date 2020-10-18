@@ -1,3 +1,4 @@
+include ':myapplication'
 include ':Lab2Activities'
 include ':Lab1-UI'
 rootProject.name = "Labs20201-Gr01"
